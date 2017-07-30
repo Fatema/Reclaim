@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Reclaim.iml" filepath="$PROJECT_DIR$/Reclaim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reclaim.iml" filepath="$PROJECT_DIR$/reclaim.iml" />
     </modules>
   </component>
 </project>

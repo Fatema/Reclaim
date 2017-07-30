@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Reclaim" />
+        <module name="reclaim" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Reclaim" target="1.8" />
+      <module name="reclaim" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
