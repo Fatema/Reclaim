@@ -48,16 +48,18 @@
                   <div class="barcode">
                     <input type="file" capture="camera" accept="image/*" id="cameraInput" name="cameraInput">
                     <a href="#" class="btn btn-default btn-link">Register Now</a>
-                  </div>
-                  <a class="btn btn-link btn-advanceS" data-toggle="collapse" href="#advanced-options" aria-expanded="false" aria-controls="advanced-options">Manually input barcode value</a>
-                  <div id="advanced-options" class="col-xs-12 col-sm-8 collapse">
-                    <form>
+
                       <div class="form-group col-md-12">
-                          <label for="barcode" class="control-label">Barcode</label>
-                          <input required type="number" class="form-control" id="manual_barcode" name="barcode">
+                          <label for="barcodeNum" class="control-label">Barcode</label>
+                          <input required type="number" class="form-control" id="barcodeNum" placeholder="023901283"
+                                 name="barcodeNum">
                       </div>
-                      <a href="#" id="barcode_manual" class="btn btn-default btn-link">Search</a>
-                    </form>
+                      <div class="form-group">
+                          <div class="col-md-10 col-md-offset-2">
+                              <button type="button" class="btn btn-default">Cancel</button>
+                              <button type="button" class="btn btn-primary" id="submit">Submit</button>
+                          </div>
+                      </div>
                   </div>
               </div>
           </div>
@@ -69,5 +71,6 @@
           $.material.init();
       });
   </script>
+<script src="barcodePleaseWork.js"></script>
 </body>
 </html>
