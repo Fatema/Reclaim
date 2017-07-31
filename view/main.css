@@ -102,11 +102,12 @@
 
 .reward-tile {
 	padding: 10px;
+    height: 100%;
     width: 100%;
 	display: flex;
 	flex-direction: column;
   align-items: flex-start;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .reward {
@@ -128,4 +129,22 @@
 
 .points {
     width: 100%;
+    font-size: 15px;
+    font-weight: bolder;
+    color: #03a9f4;
+}
+
+.points .overall {
+    color: #9e9e9e;
+}
+
+.collect {
+    width: 100%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.progress {
+    margin-bottom: 10px !important;
 }
