@@ -1,3 +1,23 @@
+// Marking as complete
+var barcodeResultModal = '<div id="barcode-modal" class="modal fade" role="dialog">' +
+    '<div class="modal-dialog">' +
+    '<div class="modal-content">' +
+    '<div class="modal-header">' +
+    '<button type="button" class="close" data-dismiss="modal">&times;</button>' +
+    '</div>' +
+    '<div class="modal-body">' +
+    '<div class="modal-msg">This item contains' +
+    '<div class="content">' +
+    '</div>' +
+    '</div>' +
+    '</div>' +
+    '<div class="modal-footer">' +
+    '<button type="button" class="btn btn-primary" id="ok">Ok</button>' +
+    '</div>' +
+    '</div>' +
+    '</div>' +
+    '</div>';
+
 $(function() {
     $('#submit').on('click', function(event) {
         var data = $('#barcodeNum').val();
