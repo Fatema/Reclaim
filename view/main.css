@@ -175,3 +175,21 @@
     justify-items: flex-start;
     padding: 5px;
 }
+
+.recycle-logo{
+    padding: 5px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 100px;
+    background-image: url("images/trash.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.center {
+    width: 100%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
