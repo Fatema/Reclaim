@@ -1,0 +1,26 @@
+{
+	"item component": [{
+		"component id" : 1
+		"component name" : "Metal can"
+		"material id" : 1
+		"material name" : "Aluminum can"
+	},
+	{
+		"component id" : 2
+		"component name" : "Plastic cap"
+		"material id" : 2
+		"material name" : "Plastic"
+	},
+	{
+		"component id" : 3
+		"component name" : "Plastic foil wrap" 
+		"material id" : 3
+		"material name" : "Non recyclable plastic"
+	},		
+	{
+		"component id" : 4
+		"component name" : "Plastic food tray" 
+		"material id" : 2
+		"material name" : "Plastic"
+	}]
+}

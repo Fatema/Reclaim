@@ -1,0 +1,44 @@
+{
+	"barcode & products" : [{
+		"Product name": "Relentless energy drink can"
+		"Recyclable" : "Y"
+		"Material Type" : "Aluminum can"
+		"barcode" : "5060466510388"
+	},
+	{
+		"Product name" : "Buxton water bottle"
+		"Recyclable" : "Y"
+		"Material Type" : "Plastic"
+		"barcode" : "50155200168
+	},
+	{
+		"Product name" : "Coke bottle"
+		"Recyclable" : "Y"
+		"Material Type" : "Plastic"
+		"barcode": "54491472"
+	},
+	{
+		"Product name" : "maltesers"
+		"Recyclable" : "N"
+		"Material Type" : "Plastic wrapper"
+		"barcode" : "5000159024518"
+	},
+	{
+		"Product name" : "Starbucks cup"
+		"Recyclable" : "Y"
+		"Material Type" : ""
+		"barcode" : "-"	
+	},
+	{
+		"Product name" : "Coke can"
+		"Recyclable" : "Y"
+		"Material Type" : "Aluminum can"
+		"barcode" : "5449000000996"
+	},
+	{
+		"Product name" : "Kettle crisp packet balsamic vinegar"
+		"Recyclable" : "N"
+		"Material Type" : "Foil"
+		"barcode" : "5017764119010"	
+	}]
+}

@@ -1,0 +1,45 @@
+{
+	"User" : [{
+		"username" : "ConfusedDwarf"
+		"email" : "ojufividd-6020@yopmail.com"
+		"password" : "Hel1o_W0rld"
+		"score" : 5515
+		"postcode" : "BH03 4JJ"
+	},
+	{
+		"username" : "BalloonSwan"
+		"email" : "zommixivit-5024@hotmail.com"
+		"password" : "Change me 101!"
+		"score" : 15
+		"postcode" : "BH12 3DF"
+	},
+	{
+		"username" : "FakeAlpaca"
+		"email" : "abby_may2145@hotmail.co.uk"
+		"password" : "rootmein15"
+		"score" : 750
+		"postcode" : "BH8 4DW"
+	},
+	{
+		"username" : "PureHarpy"
+		"email" : "daniel_lawrence544@live.com"
+		"password" : "P4ssw0rd"
+		"score" : 460
+		"postcode" : "BH15 2BP"
+	},
+	{
+		"username" : "DapperTea"
+		"email" : "beepbop@gmail.com"
+		"password" : "b0urn3m0uth99"
+		"score" : 0
+		"postcode" : "BH18 2DF"
+	},
+	{
+		"username" : "LoudUnicorn"
+		"email" : "johnsmith@protonmail.com"
+		"password" : "sm1thyb0y96"
+		"score" : 15660
+		"postcode" : "BH03 9DF"
+	}]
+}
+	

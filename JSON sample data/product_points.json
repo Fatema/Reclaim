@@ -1,0 +1,26 @@
+{
+	"Product points": [{
+		"Material type": "Aluminum or steel can"
+		"Points": 5
+	},
+	{
+		"Material type": "Newspaper"
+		"Points": 10
+	},
+	{
+		"Material type": "Glass bottle"
+		"Points": 10
+	},
+	{
+		"Material type": "Plastic bottle"
+		"Points": 15
+	},
+	{
+		"Material type": "Metal jar lid"
+		"Points": 1
+	},
+	{
+		"Material type": "Paper"
+		"Points": 1
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	"find me PC" : [{
+		"postcode" : "BH2 6LT"
+		"councilpostcode" : ["BH1", "BH2", "BH3", "BH4", "BH5", "BH6", "BH7", "BH8", "BH9", "BH10", "BH11"]
+	},
+	{
+		"postcode" : "BH12 5EG"
+		"councilpostcode" : ["BH12", "BH13", "BH14", "BH15", "BH16", "BH17", "BH18"]
+	}]
+}

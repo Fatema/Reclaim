@@ -1,0 +1,27 @@
+{
+	"council tb": [{
+		"councilName":"Bournemouth Borough Council"
+		"postcode": "BH2 6EB"
+		"recyclable": {
+			"1" : "Paper"
+			"2" : "Plastic bottles and tubs"
+			"3" : "Aluminium cans"
+			"4" : "Steel cans"
+			"5" : "Aerosols cans"
+			"6" : "Glass bottles and jars"
+			"7" : "Food and drink cartons"
+			}
+	},
+	{
+		"councilName":"Borough of Poole"
+		"postcode": "BH15 2RU"
+		"recyclable": {
+			"1" : "Paper"
+			"2" : "Plastic bottles and tubs"
+			"3" : "Aluminium cans"
+			"4" : "Steel cans"
+			"5" : "Aerosols cans"
+			"6" : "Glass bottles and jars"
+			}
+	}]
+}
